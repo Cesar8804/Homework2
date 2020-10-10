@@ -1,0 +1,10 @@
+nav{
+    margin-bottom: 15px;
+}
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    text-shadow: gray 2px 2px 5px;
+}
+.nav-link{
+    color:white !important;
+}
